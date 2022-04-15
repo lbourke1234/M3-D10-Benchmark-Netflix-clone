@@ -1,0 +1,20 @@
+a {
+    color: whitesmoke
+}
+.btn-outline-primary {
+    border-color: whitesmoke;
+    color: whitesmoke
+}
+#footer-text {
+    color: whitesmoke
+}
+nav img {
+    width: 100px
+}
+
+#column {
+    padding-left: 280px
+}
+label {
+    padding-left: 10px
+}
