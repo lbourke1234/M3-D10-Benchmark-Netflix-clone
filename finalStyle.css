@@ -52,3 +52,15 @@
 h1 {
     margin-left: 305px;
 }
+
+/* backoffice styles */
+
+#submit-button {
+  background: #E00A14
+}
+#edit-button {
+  background: #E00A14
+}
+#delete-button {
+  background: #E00A14
+}
