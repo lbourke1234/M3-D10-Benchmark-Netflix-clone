@@ -53,6 +53,22 @@ h1 {
     margin-left: 305px;
 }
 
+/* index new styles */
+
+.index-edit-button {
+  position:absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color:#E00A14;
+  opacity: 70%;
+  visibility: hidden;
+}
+
+.hover-class:hover .index-edit-button {
+  visibility: visible;
+}
+
 /* backoffice styles */
 
 #submit-button {
@@ -64,3 +80,4 @@ h1 {
 #delete-button {
   background: #E00A14
 }
+
